@@ -4,7 +4,7 @@ import random
 Score=0
 s=turtle.Screen()
 s.setup(600,600)
-s.title('Azar Sahraneshin')
+s.title('likkkiiii')
 s.bgcolor('lightgreen')
 ##1
 wall=turtle.Turtle()
